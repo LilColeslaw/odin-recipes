@@ -11,3 +11,17 @@
 #main-body {
     background-color: #92d5eb;
 }
+
+#asparagus-body {
+    background-color: rgb(219, 73, 73);
+}
+
+.recipe {
+    font-family: 'Courier New', monospace
+}
+
+p,
+li {
+    font-weight: 300;
+    color: rgb(131, 223, 160);
+}
