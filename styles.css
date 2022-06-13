@@ -22,7 +22,6 @@
 
 #asparagus-body p,
 #asparagus-body li {
-    font-weight: 300;
     color: rgb(131, 223, 160);
 }
 
@@ -32,13 +31,11 @@
 
 #lasagna-body p,
 #lasagna-body li {
-    font-weight: 300;
     color: rgb(255, 238, 6);
 }
 
 #potato-body p,
 #potato-body li {
-    font-weight: 300;
     color: rgb(143, 44, 180);
 }
 
