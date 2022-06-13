@@ -35,3 +35,13 @@
     font-weight: 300;
     color: rgb(255, 238, 6);
 }
+
+#potato-body p,
+#potato-body li {
+    font-weight: 300;
+    color: rgb(143, 44, 180);
+}
+
+#potato-body {
+    background-color: oldlace;
+}
