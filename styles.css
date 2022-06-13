@@ -25,3 +25,13 @@
     font-weight: 300;
     color: rgb(131, 223, 160);
 }
+
+#lasagna-body {
+    background-color: rgb(191, 55, 6);
+}
+
+#lasagna-body p,
+#lasagna-body li {
+    font-weight: 300;
+    color: rgb(255, 238, 6);
+}
