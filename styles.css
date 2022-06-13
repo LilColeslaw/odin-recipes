@@ -20,8 +20,8 @@
     font-family: 'Courier New', monospace
 }
 
-p,
-li {
+#asparagus-body p,
+#asparagus-body li {
     font-weight: 300;
     color: rgb(131, 223, 160);
 }
